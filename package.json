@@ -1,0 +1,9 @@
+{
+  "name": "quote-agent-demo",
+  "version": "1.0.0",
+  "description": "Auto-repair quoting agent demo: guided intake and itemized estimates from a shop price book.",
+  "main": "src/engine.js",
+  "scripts": { "test": "node --test" },
+  "author": "Chaudhry Usman <usman@trxmode.com>",
+  "license": "MIT"
+}
